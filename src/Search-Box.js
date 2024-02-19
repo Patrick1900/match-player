@@ -75,7 +75,7 @@ const SearchBox = ({onFetchPlayer, loadMatchPlayId}) => {
                     </Typography>
                 </Grid>    
                 <Grid item>                            
-                    <Link target="_blank>" rel="noopener" style={{fontSize: "10px"}} href="https://matchplay.events/live/ratings">
+                    <Link target="_blank>" rel="noopener" style={{fontSize: "10px"}} href="https://app.matchplay.events/dashboard">
                         {'MatchPlay'}
                     </Link>
                 </Grid>
